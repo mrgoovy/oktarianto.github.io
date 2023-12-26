@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoktarianto_github_io=self.webpackChunkoktarianto_github_io||[]).push([[9979],{6656:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/oktarianto.github.io/blog/tags/docusaurus","allTagsPath":"/oktarianto.github.io/blog/tags","count":4,"unlisted":false}')}}]);

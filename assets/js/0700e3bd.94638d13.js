@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoktarianto_github_io=self.webpackChunkoktarianto_github_io||[]).push([[1409],{2014:t=>{t.exports=JSON.parse('{"label":"hello","permalink":"/oktarianto.github.io/blog/tags/hello","allTagsPath":"/oktarianto.github.io/blog/tags","count":2,"unlisted":false}')}}]);
